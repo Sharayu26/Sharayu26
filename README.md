@@ -3,15 +3,15 @@
 <h2 align="center">Aspiring Data Analyst | Proficient in Excel, SQL, Power BI, Tableau, and Python | Learner | Developer</h2>
 
 ### About Me 🤓
-Hey everyone, I'm *Sharayu Laxman Ukirde, an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I'm proficient in **SQL, Python, Power BI, Tableau, and Excel* and always eager to learn and grow in the field of data analytics.
+Hey everyone, I'm **Sharayu Laxman Ukirde**, an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I'm proficient in **SQL, Python, Power BI, Tableau, and Excel** and always eager to learn and grow in the field of data analytics.
 
-- 🔭 I’m currently working on *Power BI, Python and Tableau Projects*  
-- 🌱 I’m currently learning *Data Analysis Techniques*  
-- 👯 I love collaborating on *Data Analytics & Business Analytics Projects*  
+- 🔭 I’m currently working on **Power BI, Python and Tableau Projects**  
+- 🌱 I’m currently learning **Data Analysis Techniques**  
+- 👯 I love collaborating on **Data Analytics & Business Analytics Projects** 
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/Sharayu26)**  
-- 💬 Ask me about *SQL, Power BI, Tableau, Python, and Data Analysis*  
-- 📫 Reach me at *sharayukirde26@gmail.com*  
-- ⚡ Fun fact *I love solving complex problems and exploring new technologies.*  
+- 💬 Ask me about **SQL, Power BI, Tableau, Python, and Data Analysis** 
+- 📫 Reach me at **sharayukirde26@gmail.com** 
+- ⚡ Fun fact I love solving complex problems and exploring new technologies.  
   
 ---
 
